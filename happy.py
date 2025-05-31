@@ -24,11 +24,11 @@ st.markdown(
 
     - [Video 를 통해 보기 ](https://youtu.be/Qi89LZ4nwBg)
     
-    - [대화 를 통해 듣기](https://notebooklm.google.com/notebook/ac3633d5-e076-49eb-866b-2d3a3eb69658/audio)
+    - [대화 를 통해 듣기](https://youtu.be/5k0ywIUIMCQ)
     
-    
+    - [PPT 를 통해 보기 ](https://kevinoh-happy00.streamlit.app/)
    
-    
+      화면이 안나오면  (zzz)  클릭하고  기다리면 됩니다
     
 
      
